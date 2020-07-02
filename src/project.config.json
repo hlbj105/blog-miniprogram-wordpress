@@ -1,5 +1,5 @@
 {
-	"description": "轩陌博客小程序",
+	"description": "黄良钵博客",
 	"packOptions": {
 		"ignore": []
 	},
@@ -26,8 +26,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.11.1",
-	"appid": "wxfa1b6167968db6f2",
-	"projectname": "轩陌博客",
+	"appid": "wx143aa32ea176a47e",
+	"projectname": "%E9%BB%84%E8%89%AF%E9%92%B5%E5%8D%9A%E5%AE%A2",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

@@ -1,7 +1,7 @@
 <view class="wrapper">
   <view class="align-center">
     <image class="logo" src="../../image/logo.png" mode="widthFix"></image>
-    <view class="app-name f-s-bold">{{appName}}</view>
+    <!-- <view class="app-name f-s-bold">{{appName}}</view> -->
     <view class="version f-s-small c-sub-text">Version {{appVersion}}</view>
   </view>
 
@@ -53,9 +53,9 @@
       <view class="contact-item m-t-15px">
         <image src="../../image/icon-github.png" mode="widthFix" class="m-r-5px"></image>
         <text
-          data-text="https://github.com/xuanmos"
+          data-text="https://github.com/hlbj105/blog-miniprogram-wordpress"
           bind:tap="copyText"
-        >https://github.com/xuanmos</text>
+        >https://github.com/hlbj105/blog-miniprogram-wordpress</text>
       </view>
 
       <view class="contact-item m-t-15px">
@@ -63,7 +63,7 @@
         <text
           data-text="993901865"
           bind:tap="copyText"
-        >993901865</text>
+        >909921048</text>
       </view>
 
       <!-- <view class="contact-item m-t-15px">
@@ -74,9 +74,9 @@
       <view class="contact-item m-t-15px">
         <image src="../../image/icon-email.png" mode="widthFix" class="m-r-5px"></image>
         <text
-          data-text="me@xuanmo.xin"
+          data-text="admin@huangliangbo.com"
           bind:tap="copyText"
-        >me@xuanmo.xin</text>
+        >admin@huangliangbo.com</text>
       </view>
     </view>
   </view>
