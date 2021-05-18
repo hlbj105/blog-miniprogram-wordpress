@@ -3,6 +3,8 @@
 - 框架已经集成scss编译、es6编译（解决微信小程序不能使用async/await语法糖）
 - 可搭配现有wordpress主题使用[https://github.com/xuanmos/xm-nuxtjs-wordpress](https://github.com/xuanmos/xm-nuxtjs-wordpress)
 
+## 本仓库不再更新，请移步[https://gitee.com/hlbj105/blog-miniprogram-wordpress](https://gitee.com/hlbj105/blog-miniprogram-wordpress)，github国内太慢了，还经常打不开！
+
 ## 在线预览
 ![](./qrcode.jpg)
 
